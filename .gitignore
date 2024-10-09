@@ -4,6 +4,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+hs_err_pid*.log
+
 ### STS ###
 .apt_generated
 .classpath
