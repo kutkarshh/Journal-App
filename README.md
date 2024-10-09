@@ -1,6 +1,3 @@
-Here's a sample `README.md` file tailored for your Journal App project based on the code you've shared:
-
-```markdown
 # Journal App
 
 ## Overview
@@ -28,7 +25,6 @@ The Journal App is a RESTful web application that allows users to create, manage
 
 ## Project Structure
 
-```
 src
 └── main
     ├── java
@@ -43,7 +39,6 @@ src
     │                   └── JournalEntryServiceV2.java
     └── resources
         └── application.properties
-```
 
 ## API Endpoints
 
