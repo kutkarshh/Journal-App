@@ -131,4 +131,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 - [MongoDB Documentation](https://docs.mongodb.com/)
-```
