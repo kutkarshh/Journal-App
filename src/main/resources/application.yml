@@ -13,3 +13,4 @@ spring:
     mongodb:
       uri: mongodb+srv://kutkarshh:hello@mycluster.9v9fvud.mongodb.net/?retryWrites=true&w=majority&appName=myCluster
       database: journalApp
+      auto-index-creation: true
